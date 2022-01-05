@@ -58,8 +58,9 @@ section{
 }
 
 .main-img {
-    padding: 4.9%;
+    padding: 5%;
     padding-left: 9.6%;
+    margin-left: -0.1%
 }
 .main-datalis{
     padding: 3%;
