@@ -59,7 +59,7 @@ section{
 
 .main-img {
     padding: 5%;
-    padding-left: 9.6%;
+    padding-left: 9.8%;
 }
 .main-datalis{
     padding: 3.2%;
@@ -80,10 +80,10 @@ section{
 .main-datalis{
     position: relative;
 }
-.logo-img img{
+.logo-img {
     position: absolute;
     margin-top: -17%;
-    margin-left: 71.5%;
+    margin-left: 76.3%;
 
 }
 .experience-aear{
