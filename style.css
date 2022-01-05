@@ -82,8 +82,9 @@ section{
 }
 .logo-img {
     position: absolute;
-    margin-top: -13%;
-    margin-left: 72%;
+    top: 42%;
+    left: 83.8%;
+    content: '';
 
 }
 .experience-aear{
